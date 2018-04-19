@@ -75,3 +75,10 @@ C:\Users\krych\Desktop\Web Api App\WebApiApp\WebApiApp\obj\Debug\WebApiApp.pdb
 C:\Users\krych\Desktop\Web Api App\WebApiApp\WebApiApp\obj\Debug\WebApiApp.csprojResolveAssemblyReference.cache
 C:\Users\krych\Desktop\Web Api App\WebApiApp\WebApiApp\bin\Swashbuckle.Core.dll
 C:\Users\krych\Desktop\Web Api App\WebApiApp\WebApiApp\bin\WebActivatorEx.dll
+C:\Users\krych\Desktop\Web Api App\WebApiApp\WebApiApp\bin\EmployeeDataAccess.dll
+C:\Users\krych\Desktop\Web Api App\WebApiApp\WebApiApp\bin\EntityFramework.dll
+C:\Users\krych\Desktop\Web Api App\WebApiApp\WebApiApp\bin\EntityFramework.SqlServer.dll
+C:\Users\krych\Desktop\Web Api App\WebApiApp\WebApiApp\bin\EmployeeDataAccess.pdb
+C:\Users\krych\Desktop\Web Api App\WebApiApp\WebApiApp\bin\EmployeeDataAccess.dll.config
+C:\Users\krych\Desktop\Web Api App\WebApiApp\WebApiApp\bin\EntityFramework.xml
+C:\Users\krych\Desktop\Web Api App\WebApiApp\WebApiApp\bin\EntityFramework.SqlServer.xml
